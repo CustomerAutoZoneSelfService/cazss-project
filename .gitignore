@@ -1,4 +1,4 @@
 .idea
 cazss-frontend
 cazss-backend
-.env
+./.env
