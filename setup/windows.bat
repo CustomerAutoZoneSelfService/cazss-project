@@ -2,8 +2,8 @@
 CD ..
 
 ECHO [1/3] Cloning repositories...
-git clone -b SCRUM-104 https://github.com/CustomerAutoZoneSelfService/cazss-frontend.git
-git clone -b SCRUM-105 https://github.com/CustomerAutoZoneSelfService/cazss-backend.git
+git clone -b main https://github.com/CustomerAutoZoneSelfService/cazss-frontend.git
+git clone -b main https://github.com/CustomerAutoZoneSelfService/cazss-backend.git
 
 ECHO [2/3] Copying configuration files...
 CD setup/frontend
